@@ -122,3 +122,4 @@ if __name__ == "__main__":
     ll.remove(200)
     print("length:",ll.length())
     ll.travel()
+    print(0.1*0.3+0.7*0.25+0.3*0.45)
